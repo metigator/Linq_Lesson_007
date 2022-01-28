@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQTut07.Shared", "LINQTut07.Shared\LINQTut07.Shared.csproj", "{6964BAFC-E467-448A-A59B-0C1437CA2056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTut07", "LINQTut07\LINQTut07.csproj", "{212560FA-C2C1-4ACF-80C9-E8003914D9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6964BAFC-E467-448A-A59B-0C1437CA2056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6964BAFC-E467-448A-A59B-0C1437CA2056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6964BAFC-E467-448A-A59B-0C1437CA2056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6964BAFC-E467-448A-A59B-0C1437CA2056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212560FA-C2C1-4ACF-80C9-E8003914D9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212560FA-C2C1-4ACF-80C9-E8003914D9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212560FA-C2C1-4ACF-80C9-E8003914D9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212560FA-C2C1-4ACF-80C9-E8003914D9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B73C6E-EC75-493C-A43D-0A46019D9DD9}
+	EndGlobalSection
+EndGlobal
